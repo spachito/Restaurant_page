@@ -1,0 +1,137 @@
+header{
+    background-color: rgb(186, 40, 40);
+    margin:0px;
+    padding:0px;
+    display: flex;
+    height:15vh;
+    justify-content: space-around;
+    align-items: center;
+    color:white;
+}
+
+body{
+    margin:0px;
+    padding:0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#n{
+    height:80%;
+    width:50vw;
+    display: flex;
+    justify-content: space-evenly;
+    
+    align-items: center;
+    
+}
+
+.but{
+    height: 50%;
+    width:20%;
+    border-radius: 8px;
+    background-color:rgb(186, 40, 40);
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    border:0px;
+}
+
+.but:hover{
+    background-color: burlywood;
+}
+
+#content{
+    margin:0px;
+    padding:0px;
+    height:90vh;
+    width:100vw;
+     background-image: url(bistro1.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+
+.divw{
+    height:100%;
+    width:100%;
+    background-color: burlywood;
+    border-radius: 8px;
+    border:0px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+
+}
+
+#dr{
+     margin:0px;
+    padding:0px;
+    background-image: url(pan.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr1{
+     margin:0px;
+    padding:0px;
+    background-image: url(nd.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr2{
+     margin:0px;
+    padding:0px;
+    background-image: url(bu.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr3{
+     margin:0px;
+    padding:0px;
+    background-image: url(la.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr4{
+     margin:0px;
+    padding:0px;
+    background-image: url(sal.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr5{
+     margin:0px;
+    padding:0px;
+    background-image: url(pi.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr6{
+     margin:0px;
+    padding:0px;
+    background-image: url(pasta.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#dr7{
+     margin:0px;
+    padding:0px;
+    background-image: url(car.jpg);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
